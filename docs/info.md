@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-2x1 XOR
+4bit incrementer
 
 ## How to test
 
-just test
+just test duh
 
 ## External hardware
 
-None
+VCC
